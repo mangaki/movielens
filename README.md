@@ -1,5 +1,7 @@
 # movielens
-Système de recommandation minimal (100 lignes de Python¹) sur le jeu de données de Movielens (pour Girls Can Code! 2016)
+Système de recommandation minimal (100 lignes de Python¹) sur le jeu de données de Movielens.
+
+Présentation donnée à Girls Can Code! 2016 :
 
 [![Slides de la présentation](figures/slides.png)](https://github.com/mangaki/research/blob/gh-pages/public/gcc.pdf)
 
@@ -12,15 +14,15 @@ Téléchargez l'archive ou clonez le repo puis :
     cd code
     python3 reco.py
 
-
-
 ## Exemple
 
-Au début le système demande de noter les 10 œuvres les plus populaires. Ensuite, 20 œuvres sont recommandées par note prédite croissante.
+Au début le système demande de noter les 10 œuvres les plus populaires. 
 
 - 1 : J'ai aimé
 - -1 : Je n'ai pas aimé
 - 0 : Je ne sais pas
+
+Ensuite, 20 œuvres sont recommandées par note (prédite) croissante :
 
     99855 notes chargées de 668 personnes sur 9800 films
     Prénom ? JJ
