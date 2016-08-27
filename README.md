@@ -7,6 +7,8 @@ Système de recommandation minimal (100 lignes de Python¹) sur le jeu de donné
 
 [![Slides de la présentation](figures/slides.png)](https://github.com/mangaki/research/blob/gh-pages/public/gcc.pdf)
 
+Pour compiler les slides avec ``pandoc``, faites : ``make``.
+
 ## Usage
 
 Téléchargez l'archive ou clonez le repo puis :
