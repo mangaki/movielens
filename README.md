@@ -1,11 +1,11 @@
 # movielens
 Système de recommandation minimal (100 lignes de Python¹) sur le jeu de données de Movielens.
 
-Présentation donnée à Girls Can Code! 2016 :
+¹ Oui je sais qu'on peut faire moins, Étienne.
+
+## Slides de la présentation donnée à Girls Can Code! 2016
 
 [![Slides de la présentation](figures/slides.png)](https://github.com/mangaki/research/blob/gh-pages/public/gcc.pdf)
-
-¹ Oui je sais qu'on peut faire moins, Étienne.
 
 ## Usage
 
