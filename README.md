@@ -1,13 +1,15 @@
 # movielens
-Système de recommandation minimal (100 lignes de Python¹) sur le jeu de données de Movielens.
+Un système de recommandation de films minimal (100 lignes de Python) à partir de données anonymisées de notes d'utilisateurs sur des films ([Movielens](https://movielens.org)).
 
-¹ Oui je sais qu'on peut faire moins, Étienne.
+La conférence expliquait à des jeunes de collège et lycée comment recommander des films à des nouveaux utilisateurs à partir de données existantes : « la personne n<sup>o</sup> X a **aimé/pas aimé** le film Y ».
 
 ## Slides de la présentation donnée à Girls Can Code! 2016
 
-[![Slides de la présentation](figures/slides.png)](https://github.com/mangaki/research/blob/gh-pages/public/gcc.pdf)
+[**Girls Can Code!**](https://gcc.prologin.org) est un stage d'été de programmation pour collégiennes et lycéennes organisé par [l'association Prologin](http://prologin.org) la dernière semaine du mois d'août.
 
-Pour compiler les slides avec ``pandoc``, faites : ``make``.
+Pour voir les slides, cliquez ci-dessous :
+
+[![Slides de la présentation](figures/slides.png)](https://github.com/mangaki/research/blob/gh-pages/public/gcc.pdf)
 
 ## Usage
 
@@ -15,6 +17,8 @@ Téléchargez l'archive ou clonez le repo puis :
 
     cd code
     python3 reco.py
+
+Les slides sont faites avec ``pandoc``, dans le document ``gcc.md``. Pour les compiler, faites : ``make``.
 
 ## Exemple
 
