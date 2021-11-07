@@ -1,6 +1,6 @@
 % Systèmes de recommandation
 % Jill-Jênn Vie
-% 26 août 2016
+% 3 décembre 2019
 ---
 lang: french
 babel-lang: french
@@ -192,4 +192,4 @@ Faire de la recommandation qui respecte la \alert{confidentialité} des utilisat
 
 # Merci de votre attention !
 
-Et bon appétit :-)
+Et bon code :-)
