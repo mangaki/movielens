@@ -5,6 +5,8 @@
 lang: french
 babel-lang: french
 handout: true
+header-includes:
+  - \def\no{n\textsuperscript{o}}
 ---
 
 # Recommandation d'articles
